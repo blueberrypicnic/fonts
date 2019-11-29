@@ -149,10 +149,23 @@ p, ul, ol, details {
   font-family: 'eraserregular';
 }
 
+ul {
+  list-style-type: square;
+}
+
 footer p {
   font-family: Arial;
   font-style: italic;
   font-size: 65%
+}
+
+section {
+  width: 25%;
+  height: 600px;
+  margin: 20px;
+  display: inline-block;
+  float: left;
+  padding: 10px;
 }
 
 /* ---------------------- Section-Specific Styles ----------------------*/
