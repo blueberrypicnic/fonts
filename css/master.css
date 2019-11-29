@@ -166,6 +166,7 @@ section {
   display: inline-block;
   float: left;
   padding: 10px;
+  overflow:auto;
 }
 
 /* ---------------------- Section-Specific Styles ----------------------*/
